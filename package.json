@@ -1,0 +1,23 @@
+{
+  "name": "api-hotel",
+  "version": "1.0.0",
+  "description": "api-hotel",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Perez",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "express": "^4.16.2",
+    "mongoose": "^4.13.10"
+  },
+  "devDependencies": {
+    "express-swagger-ui": "^0.1.0",
+    "nodemon": "^1.14.11",
+    "swagger-express": "^1.0.5"
+  }
+}
