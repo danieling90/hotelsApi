@@ -5,7 +5,8 @@
 ###### $ npm install
 ###### $ npm start
 
-
 **URL:** http://localhost:8080
 
-**documentación:** http://localhost:8080/swagger/#/
+**Documentación:** http://localhost:8080/swagger/#/api
+
+**DEMO:** https://api-rest-hotels.herokuapp.com/
