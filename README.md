@@ -1,4 +1,4 @@
-# almundo.com - Front hoteles
+# almundo.com - API hoteles
 
 ### Para levantar el API, ejecutar los siguientes comandos:
 
