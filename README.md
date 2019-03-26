@@ -1,6 +1,6 @@
 # almundo.com - Front hoteles
 
-### Para levantar el API correr los siguientes comandos:
+### Para levantar el API, ejecutar los siguientes comandos:
 
 ###### $ npm install
 ###### $ npm start
